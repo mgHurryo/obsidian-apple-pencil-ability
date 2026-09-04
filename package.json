@@ -1,6 +1,6 @@
 {
   "name": "obsidian-apple-pencil-capability-probe",
-  "version": "0.1.0",
+  "version": "0.1.0-beta.1",
   "private": true,
   "description": "Obsidian mobile plugin for measuring Apple Pencil input capabilities",
   "scripts": {
