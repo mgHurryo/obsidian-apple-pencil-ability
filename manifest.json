@@ -1,0 +1,10 @@
+{
+  "id": "apple-pencil-capability-probe",
+  "name": "Apple Pencil Capability Probe",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Probe Apple Pencil, pointer, touch, hover and WebView input capabilities.",
+  "author": "Apple Pencil Capability Probe contributors",
+  "authorUrl": "https://github.com/obsidianmd/obsidian-api",
+  "isDesktopOnly": false
+}
